@@ -1,0 +1,1 @@
+python -m pip install -U --force-reinstall pip
